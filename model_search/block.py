@@ -1913,4 +1913,8 @@ class BidirectionalLSTMBlock(Block):
 
 
 tf_arg_scope = tf_slim.arg_scope
+<<<<<<< HEAD
 #branch1
+=======
+#branch2
+>>>>>>> branch2

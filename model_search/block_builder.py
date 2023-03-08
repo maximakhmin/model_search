@@ -75,4 +75,8 @@ class Blocks(object):
           search_space.merge(hps, name_prefix=(block_type.name + '_'))
 
     return search_space
+<<<<<<< HEAD
 #branch1
+=======
+#branch2
+>>>>>>> branch2
